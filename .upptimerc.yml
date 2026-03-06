@@ -1,31 +1,48 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: tsolenthaler # Your GitHub organization or username, where this repository lives
+repo: DashboardWebsitesTSO # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Appenzeller Bahnen
+    url: https://appenzellerbahnen.ch
+  - name: St. Gallen Bodensee
+    url: https://st.gallen-bodensee.ch
+  - name: Glarnerland
+    url: https://glarnerland.ch
+  - name: Thurgau Bodensee
+    url: https://thurgau-bodensee.ch
+  - name: Heidiland
+    url: https://heidiland.com
+  - name: Liechtenstein 
+    url: https://tourismus.li
+  - name: Jungfrauregion
+    url: https://jungfrauregion.swiss
+  - name: Viamala
+    url: https://viamala.ch/
+  - name: Appenzellerland
+    url: https://appenzellerland.ch
+  - name: Toggenburg
+    url: https://toggenburg.swiss
+  - name: Winterthur
+    url: https://winterthur.com
+  - name: Herzroute
+    url: https://herzroute.ch
+  - name: Ostschweiz
+    url: https://ostschweiz.ch
+  - name: Ogfs
+    url: https://ogfs.ch
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: tsolenthaler.github.io/DashboardWebsitesTSO/
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://tso.ch/assets/images/j/TSO_Logo-zkcz1ye4dqz9yna.svg
+  favicon: https://tso.ch/files/design_assets/alt-tsoag-theme/img/favicon.ico
+  name: Status Page
+  introTitle: "Status Page der TSO AG"
+  introMessage: "Hier findest du den aktuellen Status unserer Websites. Wir überwachen die Erreichbarkeit und Leistung unserer Online-Dienste, um sicherzustellen, dass sie jederzeit verfügbar sind. Wenn es Probleme gibt, arbeiten wir schnell daran, sie zu beheben. Vielen Dank für dein Verständnis!"
   navbar:
     - title: Status
       href: /
