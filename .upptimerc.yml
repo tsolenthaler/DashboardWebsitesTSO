@@ -13,7 +13,7 @@ sites:
     url: https://thurgau-bodensee.ch
   - name: Heidiland
     url: https://heidiland.com
-  - name: Liechtenstein 
+  - name: Liechtenstein Tourismus
     url: https://tourismus.li
   - name: Jungfrauregion
     url: https://jungfrauregion.swiss
@@ -31,6 +31,8 @@ sites:
     url: https://ostschweiz.ch
   - name: Ogfs
     url: https://ogfs.ch
+  - name: Aargau Tourismus
+    url: https://aargautourismus.ch
 
 
 status-website:
