@@ -1,7 +1,7 @@
 url: https://ogfs.ch
-status: up
-code: 200
-responseTime: 2228
-lastUpdated: 2026-03-16T07:20:51.507Z
+status: down
+code: 415
+responseTime: 640
+lastUpdated: 2026-03-16T09:06:18.551Z
 startTime: 2026-03-06T16:01:53.748Z
 generator: Upptime <https://github.com/upptime/upptime>
