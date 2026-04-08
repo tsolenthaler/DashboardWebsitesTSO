@@ -1,7 +1,7 @@
 url: https://appenzellerbahnen.ch
-status: up
-code: 200
-responseTime: 1047
-lastUpdated: 2026-04-08T23:14:47.146Z
+status: down
+code: 415
+responseTime: 930
+lastUpdated: 2026-04-08T23:54:24.912Z
 startTime: 2026-03-06T16:01:31.899Z
 generator: Upptime <https://github.com/upptime/upptime>
