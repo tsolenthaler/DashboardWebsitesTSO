@@ -1,7 +1,7 @@
 url: https://thurgau-bodensee.ch
-status: up
-code: 200
-responseTime: 1351
-lastUpdated: 2026-04-10T14:51:40.603Z
+status: down
+code: 415
+responseTime: 503
+lastUpdated: 2026-04-10T20:05:58.116Z
 startTime: 2026-03-06T16:01:36.939Z
 generator: Upptime <https://github.com/upptime/upptime>
