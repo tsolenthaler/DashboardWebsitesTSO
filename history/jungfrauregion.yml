@@ -1,7 +1,7 @@
 url: https://jungfrauregion.swiss
-status: up
-code: 200
-responseTime: 985
-lastUpdated: 2026-04-10T14:51:55.591Z
+status: down
+code: 415
+responseTime: 408
+lastUpdated: 2026-04-10T20:06:07.951Z
 startTime: 2026-03-06T16:01:41.910Z
 generator: Upptime <https://github.com/upptime/upptime>
