@@ -1,7 +1,7 @@
 url: https://toggenburg.swiss
-status: up
-code: 200
-responseTime: 1268
-lastUpdated: 2026-04-12T15:36:56.524Z
+status: down
+code: 415
+responseTime: 356
+lastUpdated: 2026-04-12T21:52:39.314Z
 startTime: 2026-03-06T16:01:46.599Z
 generator: Upptime <https://github.com/upptime/upptime>
