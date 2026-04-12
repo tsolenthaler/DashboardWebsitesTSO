@@ -1,7 +1,7 @@
 url: https://ostschweiz.ch
-status: up
-code: 200
-responseTime: 955
-lastUpdated: 2026-04-12T15:37:09.425Z
+status: down
+code: 415
+responseTime: 624
+lastUpdated: 2026-04-12T21:52:46.210Z
 startTime: 2026-03-06T16:01:52.107Z
 generator: Upptime <https://github.com/upptime/upptime>
