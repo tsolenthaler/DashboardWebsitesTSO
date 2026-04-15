@@ -1,7 +1,7 @@
 url: https://herzroute.ch
-status: up
-code: 200
-responseTime: 1358
-lastUpdated: 2026-04-15T07:42:48.653Z
+status: down
+code: 415
+responseTime: 512
+lastUpdated: 2026-04-15T08:55:57.868Z
 startTime: 2026-03-06T16:01:50.192Z
 generator: Upptime <https://github.com/upptime/upptime>
