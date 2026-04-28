@@ -1,7 +1,7 @@
 url: https://tourismus.li
-status: up
-code: 200
-responseTime: 1322
-lastUpdated: 2026-04-27T23:19:58.697Z
+status: down
+code: 415
+responseTime: 611
+lastUpdated: 2026-04-28T18:44:27.683Z
 startTime: 2026-03-09T06:58:10.115Z
 generator: Upptime <https://github.com/upptime/upptime>
