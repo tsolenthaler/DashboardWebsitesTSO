@@ -1,7 +1,7 @@
 url: https://glarnerland.ch
-status: up
-code: 200
-responseTime: 1478
-lastUpdated: 2026-05-01T23:18:40.394Z
+status: down
+code: 415
+responseTime: 500
+lastUpdated: 2026-05-02T06:47:53.396Z
 startTime: 2026-03-06T16:01:35.304Z
 generator: Upptime <https://github.com/upptime/upptime>
