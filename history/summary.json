@@ -4,17 +4,17 @@
     "url": "https://appenzellerbahnen.ch",
     "icon": "https://icons.duckduckgo.com/ip3/appenzellerbahnen.ch.ico",
     "slug": "appenzeller-bahnen",
-    "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "64.04%",
-    "uptimeWeek": "92.17%",
-    "uptimeMonth": "96.53%",
-    "uptimeYear": "97.02%",
-    "time": 1115,
-    "timeDay": 1265,
-    "timeWeek": 1396,
-    "timeMonth": 1458,
-    "timeYear": 1115,
+    "status": "up",
+    "uptime": "96.99%",
+    "uptimeDay": "61.06%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.99%",
+    "time": 1116,
+    "timeDay": 1299,
+    "timeWeek": 1404,
+    "timeMonth": 1459,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2026-04-06": 34,
       "2026-04-07": 78,
@@ -55,7 +55,7 @@
       "2026-05-29": 118,
       "2026-06-01": 153,
       "2026-06-02": 254,
-      "2026-06-03": 263
+      "2026-06-03": 306
     }
   },
   {
@@ -63,16 +63,16 @@
     "url": "https://st.gallen-bodensee.ch",
     "icon": "https://icons.duckduckgo.com/ip3/st.gallen-bodensee.ch.ico",
     "slug": "st-gallen-bodensee",
-    "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "65.09%",
-    "uptimeWeek": "92.37%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "97.02%",
+    "status": "up",
+    "uptime": "96.99%",
+    "uptimeDay": "62.10%",
+    "uptimeWeek": "91.95%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "96.99%",
     "time": 1358,
-    "timeDay": 1265,
-    "timeWeek": 1733,
-    "timeMonth": 1561,
+    "timeDay": 1274,
+    "timeWeek": 1715,
+    "timeMonth": 1558,
     "timeYear": 1358,
     "dailyMinutesDown": {
       "2026-04-06": 34,
@@ -114,7 +114,7 @@
       "2026-05-29": 113,
       "2026-06-01": 153,
       "2026-06-02": 249,
-      "2026-06-03": 255
+      "2026-06-03": 298
     }
   },
   {
@@ -122,15 +122,15 @@
     "url": "https://glarnerland.ch",
     "icon": "https://icons.duckduckgo.com/ip3/glarnerland.ch.ico",
     "slug": "glarnerland",
-    "status": "down",
-    "uptime": "97.20%",
-    "uptimeDay": "65.16%",
-    "uptimeWeek": "92.77%",
-    "uptimeMonth": "96.82%",
-    "uptimeYear": "97.20%",
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "62.17%",
+    "uptimeWeek": "92.35%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "97.17%",
     "time": 1003,
-    "timeDay": 939,
-    "timeWeek": 1115,
+    "timeDay": 961,
+    "timeWeek": 1118,
     "timeMonth": 1206,
     "timeYear": 1003,
     "dailyMinutesDown": {
@@ -175,7 +175,7 @@
       "2026-05-29": 74,
       "2026-06-01": 153,
       "2026-06-02": 248,
-      "2026-06-03": 253
+      "2026-06-03": 296
     }
   },
   {
@@ -183,16 +183,16 @@
     "url": "https://thurgau-bodensee.ch",
     "icon": "https://icons.duckduckgo.com/ip3/thurgau-bodensee.ch.ico",
     "slug": "thurgau-bodensee",
-    "status": "down",
-    "uptime": "97.01%",
-    "uptimeDay": "66.21%",
-    "uptimeWeek": "92.59%",
-    "uptimeMonth": "96.52%",
-    "uptimeYear": "97.01%",
+    "status": "up",
+    "uptime": "96.98%",
+    "uptimeDay": "63.22%",
+    "uptimeWeek": "92.16%",
+    "uptimeMonth": "96.42%",
+    "uptimeYear": "96.98%",
     "time": 1292,
-    "timeDay": 1022,
-    "timeWeek": 1469,
-    "timeMonth": 1782,
+    "timeDay": 1025,
+    "timeWeek": 1450,
+    "timeMonth": 1773,
     "timeYear": 1292,
     "dailyMinutesDown": {
       "2026-04-07": 77,
@@ -233,7 +233,7 @@
       "2026-05-29": 108,
       "2026-06-01": 152,
       "2026-06-02": 243,
-      "2026-06-03": 244
+      "2026-06-03": 288
     }
   },
   {
@@ -241,16 +241,16 @@
     "url": "https://heidiland.com",
     "icon": "https://icons.duckduckgo.com/ip3/heidiland.com.ico",
     "slug": "heidiland",
-    "status": "down",
-    "uptime": "97.09%",
-    "uptimeDay": "67.25%",
-    "uptimeWeek": "93.08%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "97.09%",
+    "status": "up",
+    "uptime": "97.06%",
+    "uptimeDay": "64.25%",
+    "uptimeWeek": "92.66%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "97.06%",
     "time": 1206,
-    "timeDay": 1127,
-    "timeWeek": 1174,
-    "timeMonth": 1547,
+    "timeDay": 1120,
+    "timeWeek": 1169,
+    "timeMonth": 1541,
     "timeYear": 1206,
     "dailyMinutesDown": {
       "2026-04-06": 74,
@@ -291,7 +291,7 @@
       "2026-05-29": 74,
       "2026-06-01": 152,
       "2026-06-02": 238,
-      "2026-06-03": 235
+      "2026-06-03": 278
     }
   },
   {
@@ -299,15 +299,15 @@
     "url": "https://tourismus.li",
     "icon": "https://icons.duckduckgo.com/ip3/tourismus.li.ico",
     "slug": "liechtenstein-tourismus",
-    "status": "down",
-    "uptime": "97.12%",
-    "uptimeDay": "67.33%",
-    "uptimeWeek": "93.10%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "97.12%",
+    "status": "up",
+    "uptime": "97.08%",
+    "uptimeDay": "64.34%",
+    "uptimeWeek": "92.67%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "97.08%",
     "time": 891,
-    "timeDay": 741,
-    "timeWeek": 841,
+    "timeDay": 753,
+    "timeWeek": 843,
     "timeMonth": 899,
     "timeYear": 891,
     "dailyMinutesDown": {
@@ -352,7 +352,7 @@
       "2026-05-29": 74,
       "2026-06-01": 151,
       "2026-06-02": 237,
-      "2026-06-03": 233
+      "2026-06-03": 277
     }
   },
   {
@@ -360,17 +360,17 @@
     "url": "https://jungfrauregion.swiss",
     "icon": "https://icons.duckduckgo.com/ip3/jungfrauregion.swiss.ico",
     "slug": "jungfrauregion",
-    "status": "down",
-    "uptime": "97.08%",
-    "uptimeDay": "68.38%",
-    "uptimeWeek": "93.25%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "97.08%",
-    "time": 964,
-    "timeDay": 1451,
-    "timeWeek": 1341,
-    "timeMonth": 1195,
-    "timeYear": 964,
+    "status": "up",
+    "uptime": "97.05%",
+    "uptimeDay": "65.37%",
+    "uptimeWeek": "92.83%",
+    "uptimeMonth": "96.75%",
+    "uptimeYear": "97.05%",
+    "time": 966,
+    "timeDay": 1458,
+    "timeWeek": 1349,
+    "timeMonth": 1199,
+    "timeYear": 966,
     "dailyMinutesDown": {
       "2026-04-06": 63,
       "2026-04-07": 76,
@@ -410,7 +410,7 @@
       "2026-05-29": 73,
       "2026-06-01": 151,
       "2026-06-02": 232,
-      "2026-06-03": 223
+      "2026-06-03": 267
     }
   },
   {
@@ -418,16 +418,16 @@
     "url": "https://viamala.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/viamala.ch.ico",
     "slug": "viamala",
-    "status": "down",
-    "uptime": "97.11%",
-    "uptimeDay": "69.42%",
-    "uptimeWeek": "93.41%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "97.11%",
+    "status": "up",
+    "uptime": "97.08%",
+    "uptimeDay": "66.41%",
+    "uptimeWeek": "92.98%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "97.08%",
     "time": 1025,
-    "timeDay": 814,
-    "timeWeek": 997,
-    "timeMonth": 942,
+    "timeDay": 819,
+    "timeWeek": 990,
+    "timeMonth": 941,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2026-04-02": 119,
@@ -469,7 +469,7 @@
       "2026-05-29": 73,
       "2026-06-01": 151,
       "2026-06-02": 227,
-      "2026-06-03": 214
+      "2026-06-03": 257
     }
   },
   {
@@ -477,16 +477,16 @@
     "url": "https://appenzellerland.ch",
     "icon": "https://icons.duckduckgo.com/ip3/appenzellerland.ch.ico",
     "slug": "appenzellerland",
-    "status": "down",
-    "uptime": "97.14%",
-    "uptimeDay": "70.46%",
-    "uptimeWeek": "93.56%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "97.14%",
+    "status": "up",
+    "uptime": "97.10%",
+    "uptimeDay": "67.45%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.10%",
     "time": 1239,
-    "timeDay": 1431,
-    "timeWeek": 1559,
-    "timeMonth": 1639,
+    "timeDay": 1443,
+    "timeWeek": 1558,
+    "timeMonth": 1638,
     "timeYear": 1239,
     "dailyMinutesDown": {
       "2026-04-05": 15,
@@ -527,7 +527,7 @@
       "2026-05-29": 73,
       "2026-06-01": 151,
       "2026-06-02": 221,
-      "2026-06-03": 204
+      "2026-06-03": 247
     }
   },
   {
@@ -535,17 +535,17 @@
     "url": "https://toggenburg.swiss",
     "icon": "https://icons.duckduckgo.com/ip3/toggenburg.swiss.ico",
     "slug": "toggenburg",
-    "status": "down",
-    "uptime": "97.23%",
-    "uptimeDay": "71.50%",
-    "uptimeWeek": "93.72%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.23%",
-    "time": 1202,
-    "timeDay": 1316,
-    "timeWeek": 1379,
+    "status": "up",
+    "uptime": "97.20%",
+    "uptimeDay": "68.49%",
+    "uptimeWeek": "93.29%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.20%",
+    "time": 1203,
+    "timeDay": 1321,
+    "timeWeek": 1378,
     "timeMonth": 1423,
-    "timeYear": 1202,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2026-04-05": 15,
       "2026-04-06": 85,
@@ -585,7 +585,7 @@
       "2026-05-29": 73,
       "2026-06-01": 150,
       "2026-06-02": 217,
-      "2026-06-03": 194
+      "2026-06-03": 237
     }
   },
   {
@@ -593,16 +593,16 @@
     "url": "https://winterthur.com",
     "icon": "https://icons.duckduckgo.com/ip3/winterthur.com.ico",
     "slug": "winterthur",
-    "status": "down",
-    "uptime": "97.27%",
-    "uptimeDay": "72.55%",
-    "uptimeWeek": "93.87%",
-    "uptimeMonth": "97.27%",
-    "uptimeYear": "97.27%",
+    "status": "up",
+    "uptime": "97.24%",
+    "uptimeDay": "69.54%",
+    "uptimeWeek": "93.44%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.24%",
     "time": 1091,
-    "timeDay": 982,
-    "timeWeek": 1077,
-    "timeMonth": 1135,
+    "timeDay": 977,
+    "timeWeek": 1070,
+    "timeMonth": 1133,
     "timeYear": 1091,
     "dailyMinutesDown": {
       "2026-04-04": 16,
@@ -643,7 +643,7 @@
       "2026-05-29": 73,
       "2026-06-01": 150,
       "2026-06-02": 211,
-      "2026-06-03": 185
+      "2026-06-03": 228
     }
   },
   {
@@ -651,16 +651,16 @@
     "url": "https://herzroute.ch",
     "icon": "https://icons.duckduckgo.com/ip3/herzroute.ch.ico",
     "slug": "herzroute",
-    "status": "down",
-    "uptime": "97.23%",
-    "uptimeDay": "74.50%",
-    "uptimeWeek": "94.16%",
-    "uptimeMonth": "97.36%",
-    "uptimeYear": "97.23%",
+    "status": "up",
+    "uptime": "97.19%",
+    "uptimeDay": "71.48%",
+    "uptimeWeek": "93.72%",
+    "uptimeMonth": "97.26%",
+    "uptimeYear": "97.19%",
     "time": 1175,
-    "timeDay": 1030,
-    "timeWeek": 1145,
-    "timeMonth": 1367,
+    "timeDay": 1035,
+    "timeWeek": 1141,
+    "timeMonth": 1363,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2026-04-03": 3,
@@ -703,7 +703,7 @@
       "2026-05-29": 73,
       "2026-06-01": 149,
       "2026-06-02": 193,
-      "2026-06-03": 174
+      "2026-06-03": 218
     }
   },
   {
@@ -711,16 +711,16 @@
     "url": "https://ostschweiz.ch",
     "icon": "https://icons.duckduckgo.com/ip3/ostschweiz.ch.ico",
     "slug": "ostschweiz",
-    "status": "down",
-    "uptime": "97.21%",
-    "uptimeDay": "74.56%",
-    "uptimeWeek": "94.17%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "97.21%",
+    "status": "up",
+    "uptime": "97.18%",
+    "uptimeDay": "71.54%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.18%",
     "time": 1034,
-    "timeDay": 852,
+    "timeDay": 866,
     "timeWeek": 1024,
-    "timeMonth": 1094,
+    "timeMonth": 1093,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2026-04-03": 3,
@@ -763,7 +763,7 @@
       "2026-05-29": 72,
       "2026-06-01": 149,
       "2026-06-02": 193,
-      "2026-06-03": 174
+      "2026-06-03": 217
     }
   },
   {
@@ -771,17 +771,17 @@
     "url": "https://ogfs.ch",
     "icon": "https://icons.duckduckgo.com/ip3/ogfs.ch.ico",
     "slug": "ogfs",
-    "status": "down",
-    "uptime": "97.26%",
-    "uptimeDay": "75.29%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.26%",
-    "time": 1656,
-    "timeDay": 1650,
-    "timeWeek": 2053,
-    "timeMonth": 2080,
-    "timeYear": 1656,
+    "status": "up",
+    "uptime": "97.23%",
+    "uptimeDay": "72.26%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "97.23%",
+    "time": 1657,
+    "timeDay": 1705,
+    "timeWeek": 2058,
+    "timeMonth": 2081,
+    "timeYear": 1657,
     "dailyMinutesDown": {
       "2026-04-01": 21,
       "2026-04-03": 3,
@@ -823,7 +823,7 @@
       "2026-05-29": 72,
       "2026-06-01": 149,
       "2026-06-02": 192,
-      "2026-06-03": 164
+      "2026-06-03": 208
     }
   },
   {
@@ -831,17 +831,17 @@
     "url": "https://aargautourismus.ch",
     "icon": "https://icons.duckduckgo.com/ip3/aargautourismus.ch.ico",
     "slug": "aargau-tourismus",
-    "status": "down",
-    "uptime": "98.90%",
-    "uptimeDay": "75.36%",
-    "uptimeWeek": "94.29%",
-    "uptimeMonth": "97.45%",
-    "uptimeYear": "98.90%",
-    "time": 1520,
-    "timeDay": 1601,
-    "timeWeek": 1870,
-    "timeMonth": 1853,
-    "timeYear": 1520,
+    "status": "up",
+    "uptime": "98.86%",
+    "uptimeDay": "72.33%",
+    "uptimeWeek": "93.86%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "98.86%",
+    "time": 1525,
+    "timeDay": 1653,
+    "timeWeek": 1885,
+    "timeMonth": 1858,
+    "timeYear": 1525,
     "dailyMinutesDown": {
       "2026-03-09": 16,
       "2026-03-16": 24,
@@ -861,7 +861,7 @@
       "2026-05-29": 72,
       "2026-06-01": 148,
       "2026-06-02": 192,
-      "2026-06-03": 164
+      "2026-06-03": 207
     }
   }
 ]
