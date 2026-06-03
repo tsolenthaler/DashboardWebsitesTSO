@@ -481,11 +481,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/appenzellerland.ch.ico",
     "slug": "appenzellerland",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "84.61%",
     "uptimeWeek": "95.58%",
     "uptimeMonth": "97.61%",
-    "uptimeYear": "97.20%",
+    "uptimeYear": "97.21%",
     "time": 1238,
     "timeDay": 1471,
     "timeWeek": 1594,
@@ -662,18 +662,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/herzroute.ch.ico",
     "slug": "herzroute",
     "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "85.69%",
-    "uptimeWeek": "95.75%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "97.30%",
+    "uptime": "97.29%",
+    "uptimeDay": "86.59%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "97.29%",
     "time": 1176,
     "timeDay": 1045,
     "timeWeek": 1169,
     "timeMonth": 1381,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2026-03-30": 16,
+      "2026-03-30": 46,
       "2026-04-01": 21,
       "2026-04-03": 3,
       "2026-04-02": 46,
@@ -714,7 +714,7 @@
       "2026-05-26": 39,
       "2026-05-29": 73,
       "2026-06-01": 149,
-      "2026-06-02": 206
+      "2026-06-02": 193
     }
   },
   {
@@ -723,18 +723,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ostschweiz.ch.ico",
     "slug": "ostschweiz",
     "status": "up",
-    "uptime": "97.29%",
-    "uptimeDay": "85.73%",
-    "uptimeWeek": "95.77%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "97.29%",
+    "uptime": "97.27%",
+    "uptimeDay": "86.62%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.27%",
     "time": 1038,
     "timeDay": 918,
     "timeWeek": 1094,
     "timeMonth": 1115,
     "timeYear": 1038,
     "dailyMinutesDown": {
-      "2026-03-30": 16,
+      "2026-03-30": 46,
       "2026-04-01": 21,
       "2026-04-03": 3,
       "2026-04-02": 46,
@@ -775,7 +775,7 @@
       "2026-05-26": 38,
       "2026-05-29": 72,
       "2026-06-01": 149,
-      "2026-06-02": 206
+      "2026-06-02": 193
     }
   },
   {
@@ -785,9 +785,9 @@
     "slug": "ogfs",
     "status": "up",
     "uptime": "97.33%",
-    "uptimeDay": "86.11%",
-    "uptimeWeek": "95.83%",
-    "uptimeMonth": "97.82%",
+    "uptimeDay": "86.66%",
+    "uptimeWeek": "95.90%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "97.33%",
     "time": 1656,
     "timeDay": 1643,
@@ -795,6 +795,7 @@
     "timeMonth": 2097,
     "timeYear": 1656,
     "dailyMinutesDown": {
+      "2026-03-29": 16,
       "2026-03-30": 46,
       "2026-04-01": 21,
       "2026-04-03": 3,
@@ -835,7 +836,7 @@
       "2026-05-26": 38,
       "2026-05-29": 72,
       "2026-06-01": 149,
-      "2026-06-02": 200
+      "2026-06-02": 192
     }
   },
   {
@@ -845,9 +846,9 @@
     "slug": "aargau-tourismus",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "86.14%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "97.81%",
+    "uptimeDay": "86.69%",
+    "uptimeWeek": "95.91%",
+    "uptimeMonth": "97.83%",
     "uptimeYear": "99.02%",
     "time": 1523,
     "timeDay": 1753,
@@ -872,7 +873,7 @@
       "2026-05-26": 38,
       "2026-05-29": 72,
       "2026-06-01": 148,
-      "2026-06-02": 200
+      "2026-06-02": 192
     }
   }
 ]
