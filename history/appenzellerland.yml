@@ -1,7 +1,7 @@
 url: https://appenzellerland.ch
-status: up
-code: 200
-responseTime: 1371
-lastUpdated: 2026-06-04T00:05:28.090Z
+status: down
+code: 415
+responseTime: 765
+lastUpdated: 2026-06-04T00:26:06.330Z
 startTime: 2026-03-06T16:01:44.866Z
 generator: Upptime <https://github.com/upptime/upptime>
